@@ -1,2 +1,2 @@
 config: 
-  version: prod 1.0
+  info: config-prod.yml version 1.0
